@@ -13,6 +13,7 @@
         android:id="@+id/tv_random_number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="@android:color/black"
         app:fontFamily="sans-serif" />
@@ -20,8 +21,9 @@
 
     <Button
         android:id="@+id/action_start_service"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:text="@string/action_start_service"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="@android:color/black"
