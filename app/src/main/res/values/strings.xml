@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bound Services</string>
+
+    <string name="action_start_service">Start Service</string>
+
+
+
+</resources>
