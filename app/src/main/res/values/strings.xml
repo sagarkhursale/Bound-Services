@@ -1,8 +1,29 @@
 <resources>
     <string name="app_name">Bound Services</string>
 
-    <string name="action_start_service">Start Service</string>
+    <string name="action_send_message">Send Message</string>
+    <string name="edit_query">Your Query !!</string>
+    <string name="tv_output">Response will appear here..</string>
 
+    <string name="welcom_message">\tHi, Sagar! \n Welcome to Bound-Service example.</string>
+
+
+    <string name="service">A Service is an application component that can perform long-running operations in background,
+        and it does not provide a user interface.</string>
+
+
+    <string name="bound_service">Bound service offers client-server inteface that
+        allows component to interact with the service, and send requests, receive results and even do so across processes with IPC</string>
+
+
+    <string name="service_type">There are three different types of services :\n
+    1. Foreground\n
+    2. Background\n
+    3. Bound
+    </string>
+
+
+    <string name="invalid_query">OOps, Out of context query..!!</string>
 
 
 </resources>
